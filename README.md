@@ -10,4 +10,4 @@ Materiales para el proyecto PIIISA 2026 "¿Puede la Inteligencia Artificial deci
 ## Segunda sesión
 * [Redes neuronales](https://colab.research.google.com/drive/1eY9PyI_Oz6u6BGFLOJsbljBkpLyqi8Xy?usp=sharing)
 * [Entrenamiento de una red neuronal para predecir rayos](https://colab.research.google.com/drive/1IERqlaCOMRp2_0pxXEgUoPGYmCAIjGjh?usp=sharing)
-* [Laboratorio IA}(https://511c2e462dd9543814.gradio.live)
+* [Laboratorio IA](https://511c2e462dd9543814.gradio.live)
