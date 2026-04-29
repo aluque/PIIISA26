@@ -13,4 +13,4 @@ Materiales para el proyecto PIIISA 2026 "¿Puede la Inteligencia Artificial deci
 * [Laboratorio IA](https://511c2e462dd9543814.gradio.live)
 
 ## Tercera sesión
-* [Entrenar una IA](https://colab.research.google.com/drive/1vNXqc3JIkn3jDqlHsHVbLZ7dnSGEC46s?usp=sharing)
+* [Entrenar una IA](https://colab.research.google.com/drive/1oJ67d0YYkbGzV_e7kKbdmB5G2hFGa9pC?usp=sharing) **(¡Actualizado!)**
